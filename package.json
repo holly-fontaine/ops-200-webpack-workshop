@@ -38,6 +38,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "serve-favicon": "^2.0.1",
+    "webpack-cli": "^3.3.12",
     "webpack": "^4.8.3"
   },
   "devDependencies": {
@@ -60,7 +61,6 @@
     "react-addons-test-utils": "^15.6.0",
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
-    "url-loader": "^0.5.9",
-    "webpack-cli": "^3.3.12"
+    "url-loader": "^0.5.9"
   }
 }
